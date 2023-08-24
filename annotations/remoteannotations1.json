@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Testannotation SAS",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Testannotation SAS</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/31686246",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-08-24T07:53:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1692863637311",
+    "dcterms:modified" : "2023-08-24T07:53:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00023874/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=200,859,723,785"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M200.07664,859.41459h361.36565v0h361.36565v392.74885v392.74885h-361.36565h-361.36565v-392.74885z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c4ab5526-9304-499e-9c1a-b29224585145\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00023874/canvas/7"
+    } ]
+  } ],
+  "@id" : "https://GGoetzelmann.github.io/IIIFWorkbenchHelloWorld/annotations/remoteannotations1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
