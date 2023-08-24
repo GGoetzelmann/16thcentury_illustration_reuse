@@ -16,6 +16,6 @@ Smile, this is a test change
     var annotationList = getContentState();
     if(typeof(annotationList) == "string" && annotationList.length > 0) {
         var div = document.getElementById("storyboard");
-        div.innerHTML = "<iiif-storyboard annotationlist='" + annotationList + "'></iiif-storyboard>"
+        div.innerHTML = "<iiif-storyboard url='" + annotationList + "'></iiif-storyboard>"
     }
 </script>
