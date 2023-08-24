@@ -107,16 +107,17 @@ Smile, this is a test change
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
 </script>
+<!--
 <div id="multiboardtest"></div>
 <script type="text/javascript">
     var div2 = document.getElementById("multiboardtest");
     var annolist2 = "https://ncsu-libraries.github.io/annona/webannotations/mc00084-001-te0159-000-001-0001-list.json;https://ncsu-libraries.github.io/annona/webannotations/ua023-015-003-bx0002-004-026-list.json;https://ncsu-libraries.github.io/annona/webannotations/mc00084-001-te0159-000-001-0001-list.json"
     div2.innerHTML = "<iiif-storyboard url='" + annolist2 + "'></iiif-storyboard>"
 </script>
-
+-->
 <div id="multiboardtestData"></div>
 <script type="text/javascript">
     var div3 = document.getElementById("multiboardtestData");
     var annolist3 = "generatedAnnoList1;generatedAnnoList2"
-    div3.innerHTML = "<iiif-storyboard url='" + annolist3 + "'></iiif-storyboard>"
+    div3.innerHTML = "<iiif-storyboard url='" + annolist3 + "' styling=\"matchclick: true;customid:matchclick;\"></iiif-storyboard>"
 </script>
