@@ -19,3 +19,9 @@ Smile, this is a test change
         div.innerHTML = "<iiif-storyboard url='" + annotationList + "'></iiif-storyboard>"
     }
 </script>
+
+<div id="multiboardtest"></div>
+<script type="text/javascript">
+    var div = document.getElementById("multiboardtest");
+    div.innerHTML = "<iiif-storyboard url="https://ncsu-libraries.github.io/annona/webannotations/mc00084-001-te0159-000-001-0001-list.json;https://ncsu-libraries.github.io/annona/webannotations/ua023-015-003-bx0002-004-026-list.json"></iiif-storyboard>"
+</script>
