@@ -1,0 +1,57 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0010364_620bda0f8f8173c2c53554d1/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0010364_620bda0f8f8173c2c53554d1/37005dc1-81b3-4a79-aee3-132c80e5a8ab",
+         "type": "Annotation",
+         "created": "2023-11-15T23:59:44Z",
+         "modified": "2023-11-15T23:59:44Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11057820/canvas/194#xywh=316,892,1070,1297",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11057820/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "L+2426"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0010364_620bda0f8f8173c2c53554d1/cde3a330-cdb9-417a-a772-c85f9ee4c0bc",
+         "type": "Annotation",
+         "created": "2023-11-15T23:59:44Z",
+         "modified": "2023-11-15T23:59:44Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00093172/canvas/206#xywh=553,1193,1191,1613",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00093172/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "L+2425"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0010364_620bda0f8f8173c2c53554d1/?iris=0",
+      "modified": "2023-11-15T23:59:44Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0010364_620bda0f8f8173c2c53554d1/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0010364_620bda0f8f8173c2c53554d1/?iris=0&page=0",
+      "total": "2"
+   },
+   "startIndex": "0"
+}

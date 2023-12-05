@@ -1,0 +1,95 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0004270_620bda0f8f8173c2c5353d03/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0004270_620bda0f8f8173c2c5353d03/007cac78-9275-4b07-a7a7-7bf71a5e12c6",
+         "type": "Annotation",
+         "created": "2023-11-15T20:59:59Z",
+         "modified": "2023-11-15T20:59:59Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10140771/canvas/41#xywh=168,860,1799,1302",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10140771/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "L+2115"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0004270_620bda0f8f8173c2c5353d03/98d4f18e-8594-4acf-a18b-d172ab4b93cd",
+         "type": "Annotation",
+         "created": "2023-11-15T20:59:59Z",
+         "modified": "2023-11-15T20:59:59Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://iiif.onb.ac.at/presentation/ABO/Z161807703/canvas/page139#xywh=296,880,1789,1301",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://iiif.onb.ac.at/presentation/ABO/Z161807703/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "D+1389"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0004270_620bda0f8f8173c2c5353d03/c76caef2-fa8e-4c44-b597-d4e282ede54c",
+         "type": "Annotation",
+         "created": "2023-11-15T20:59:59Z",
+         "modified": "2023-11-15T20:59:59Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10140772/canvas/41#xywh=171,954,1809,1392",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10140772/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "L+2116"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0004270_620bda0f8f8173c2c5353d03/c5154647-b083-4e6f-a324-9e0dd351aaaf",
+         "type": "Annotation",
+         "created": "2023-11-15T20:59:59Z",
+         "modified": "2023-11-15T20:59:59Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11056122/canvas/596#xywh=462,1546,1750,1282",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11056122/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "B+6598"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0004270_620bda0f8f8173c2c5353d03/?iris=0",
+      "modified": "2023-11-15T20:59:59Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0004270_620bda0f8f8173c2c5353d03/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0004270_620bda0f8f8173c2c5353d03/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}

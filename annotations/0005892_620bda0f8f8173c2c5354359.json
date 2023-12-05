@@ -1,0 +1,95 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0005892_620bda0f8f8173c2c5354359/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0005892_620bda0f8f8173c2c5354359/5d36834d-f259-4db2-8613-906e50b9176e",
+         "type": "Annotation",
+         "created": "2023-11-15T21:23:12Z",
+         "modified": "2023-11-15T21:23:12Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189441/canvas/219#xywh=54,550,641,490",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189441/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "R+1014"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005892_620bda0f8f8173c2c5354359/7e85c5ad-5088-49af-9039-29ddd6cbb89d",
+         "type": "Annotation",
+         "created": "2023-11-15T21:23:12Z",
+         "modified": "2023-11-15T21:23:12Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://iiif.onb.ac.at/presentation/ABO/Z181159201/canvas/page245#xywh=60,385,632,488",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://iiif.onb.ac.at/presentation/ABO/Z181159201/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "R+1016"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005892_620bda0f8f8173c2c5354359/b2eb2ac2-9cf3-4b9e-bec3-073b6e6e891a",
+         "type": "Annotation",
+         "created": "2023-11-15T21:23:12Z",
+         "modified": "2023-11-15T21:23:12Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189440/canvas/217#xywh=64,526,597,496",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189440/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "R+1013"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005892_620bda0f8f8173c2c5354359/0826bb46-8e2a-47c4-af0b-a426c4b64d3b",
+         "type": "Annotation",
+         "created": "2023-11-15T21:23:12Z",
+         "modified": "2023-11-15T21:23:12Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189442/canvas/207#xywh=54,294,629,481",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189442/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "R+1015"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0005892_620bda0f8f8173c2c5354359/?iris=0",
+      "modified": "2023-11-15T21:23:12Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0005892_620bda0f8f8173c2c5354359/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0005892_620bda0f8f8173c2c5354359/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}

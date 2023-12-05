@@ -1,0 +1,95 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0005381_620bda0f8f8173c2c535415a/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0005381_620bda0f8f8173c2c535415a/80345662-bbfc-41c3-ae72-926e1c404674",
+         "type": "Annotation",
+         "created": "2023-11-15T21:15:32Z",
+         "modified": "2023-11-15T21:15:32Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11220496/canvas/939#xywh=150,304,874,1424",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11220496/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1613"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005381_620bda0f8f8173c2c535415a/fdc793e7-6134-4d84-ae68-c57afa8032a8",
+         "type": "Annotation",
+         "created": "2023-11-15T21:15:32Z",
+         "modified": "2023-11-15T21:15:32Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091089/canvas/852#xywh=1514,1921,847,1422",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091089/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1614"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005381_620bda0f8f8173c2c535415a/1a92bcfe-5987-4424-959d-25cb05e1f7db",
+         "type": "Annotation",
+         "created": "2023-11-15T21:15:32Z",
+         "modified": "2023-11-15T21:15:32Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/995412/canvas/1557590#xywh=2178,2346,870,1210",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/995412/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1616"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005381_620bda0f8f8173c2c535415a/c47e0792-5dd4-494e-bd9f-2c354c33e272",
+         "type": "Annotation",
+         "created": "2023-11-15T21:15:32Z",
+         "modified": "2023-11-15T21:15:32Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://www.e-rara.ch/zut/i3f/v20/2860006/canvas/2860862#xywh=1606,2103,846,1434",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://www.e-rara.ch/zut/i3f/v20/2860006/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1615"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0005381_620bda0f8f8173c2c535415a/?iris=0",
+      "modified": "2023-11-15T21:15:32Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0005381_620bda0f8f8173c2c535415a/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0005381_620bda0f8f8173c2c535415a/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}

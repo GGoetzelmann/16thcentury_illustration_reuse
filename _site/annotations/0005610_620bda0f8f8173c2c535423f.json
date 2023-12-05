@@ -1,0 +1,95 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0005610_620bda0f8f8173c2c535423f/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0005610_620bda0f8f8173c2c535423f/afefbccc-968a-4eb9-b865-57803ace709b",
+         "type": "Annotation",
+         "created": "2023-11-15T21:19:00Z",
+         "modified": "2023-11-15T21:19:00Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10201912/canvas/17#xywh=284,599,1474,1033",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10201912/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "ZV+14775"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005610_620bda0f8f8173c2c535423f/d36063b9-d3f8-415a-8d5b-6e61c35e9267",
+         "type": "Annotation",
+         "created": "2023-11-15T21:19:00Z",
+         "modified": "2023-11-15T21:19:00Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/84534496X-0021/canvas#xywh=69,732,1634,1132",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://content.staatsbibliothek-berlin.de/dc/84534496X/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "S+9884"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005610_620bda0f8f8173c2c535423f/19edb200-fd58-4e19-b9ff-7d4b4df35768",
+         "type": "Annotation",
+         "created": "2023-11-15T21:19:00Z",
+         "modified": "2023-11-15T21:19:00Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10983850/canvas/13#xywh=178,706,1590,1130",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10983850/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "ZV+16910"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005610_620bda0f8f8173c2c535423f/ad70cca4-bcd1-4657-b737-17de429fd381",
+         "type": "Annotation",
+         "created": "2023-11-15T21:19:00Z",
+         "modified": "2023-11-15T21:19:00Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/791101673-0017/canvas#xywh=135,691,1581,1110",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://content.staatsbibliothek-berlin.de/dc/791101673/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "ZV+11248"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0005610_620bda0f8f8173c2c535423f/?iris=0",
+      "modified": "2023-11-15T21:19:00Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0005610_620bda0f8f8173c2c535423f/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0005610_620bda0f8f8173c2c535423f/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}

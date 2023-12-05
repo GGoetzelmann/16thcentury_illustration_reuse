@@ -1,0 +1,95 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0005236_620bda0f8f8173c2c53540c9/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0005236_620bda0f8f8173c2c53540c9/f8dd7713-e782-4475-884e-3954f77d4e6a",
+         "type": "Annotation",
+         "created": "2023-11-15T21:13:14Z",
+         "modified": "2023-11-15T21:13:14Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00089694/canvas/994#xywh=1247,439,563,1306",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00089694/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1612"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005236_620bda0f8f8173c2c53540c9/b2e5be2a-e72f-40a8-8f15-07b00975e147",
+         "type": "Annotation",
+         "created": "2023-11-15T21:13:14Z",
+         "modified": "2023-11-15T21:13:14Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://www.e-rara.ch/zut/i3f/v20/2860006/canvas/2860888#xywh=719,1448,559,1295",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://www.e-rara.ch/zut/i3f/v20/2860006/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1615"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005236_620bda0f8f8173c2c53540c9/a661fe98-e8ae-4fc7-8eb9-05f1505deadd",
+         "type": "Annotation",
+         "created": "2023-11-15T21:13:14Z",
+         "modified": "2023-11-15T21:13:14Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11220496/canvas/994#xywh=1051,290,578,1288",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11220496/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1613"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005236_620bda0f8f8173c2c53540c9/ac1e52c8-5ae1-4787-8b69-574b9f355d2b",
+         "type": "Annotation",
+         "created": "2023-11-15T21:13:14Z",
+         "modified": "2023-11-15T21:13:14Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091089/canvas/878#xywh=688,1271,557,1294",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091089/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1614"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0005236_620bda0f8f8173c2c53540c9/?iris=0",
+      "modified": "2023-11-15T21:13:14Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0005236_620bda0f8f8173c2c53540c9/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0005236_620bda0f8f8173c2c53540c9/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}

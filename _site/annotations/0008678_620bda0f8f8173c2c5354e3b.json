@@ -1,0 +1,125 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/8db8560e-4652-4e22-abbb-3edb8740ba3b",
+         "type": "Annotation",
+         "created": "2023-11-15T23:23:02Z",
+         "modified": "2023-11-15T23:23:02Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00086238/canvas/256#xywh=303,912,802,582",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00086238/manifest"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/fbd7d475-736f-4bd1-b873-837aed1a811c",
+         "type": "Annotation",
+         "created": "2023-11-15T23:23:02Z",
+         "modified": "2023-11-15T23:23:02Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00086238/canvas/445#xywh=95,556,784,574",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00086238/manifest"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/c326ce95-bfd3-4544-9e5c-30ed1a253995",
+         "type": "Annotation",
+         "created": "2023-11-15T23:23:02Z",
+         "modified": "2023-11-15T23:23:02Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://iiif.onb.ac.at/presentation/ABO/Z95594200/canvas/page200#xywh=148,479,835,615",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://iiif.onb.ac.at/presentation/ABO/Z95594200/manifest"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/74d06bc9-2537-456f-ac0c-1c3625975077",
+         "type": "Annotation",
+         "created": "2023-11-15T23:23:02Z",
+         "modified": "2023-11-15T23:23:02Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://iiif.onb.ac.at/presentation/ABO/Z95594200/canvas/page78#xywh=173,380,836,597",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://iiif.onb.ac.at/presentation/ABO/Z95594200/manifest"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/a21fda82-ab0f-4b03-bb05-b6e3807ea067",
+         "type": "Annotation",
+         "created": "2023-11-15T23:23:02Z",
+         "modified": "2023-11-15T23:23:02Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00086238/canvas/509#xywh=77,515,763,579",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00086238/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "B+5829"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/67903e5b-59ef-4e6e-9bc7-9faf414e534c",
+         "type": "Annotation",
+         "created": "2023-11-15T23:23:02Z",
+         "modified": "2023-11-15T23:23:02Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://iiif.onb.ac.at/presentation/ABO/Z95594200/canvas/page302#xywh=133,539,834,582",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://iiif.onb.ac.at/presentation/ABO/Z95594200/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "ZV+2111"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/?iris=0",
+      "modified": "2023-11-15T23:23:02Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0008678_620bda0f8f8173c2c5354e3b/?iris=0&page=0",
+      "total": "6"
+   },
+   "startIndex": "0"
+}

@@ -1,0 +1,57 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0009470_620bda0f8f8173c2c5355153/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0009470_620bda0f8f8173c2c5355153/51a23f2d-9de5-471f-8906-07dbbedfed1b",
+         "type": "Annotation",
+         "created": "2023-11-15T23:39:25Z",
+         "modified": "2023-11-15T23:39:25Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00090920/canvas/251#xywh=191,950,619,616",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00090920/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "K+1667"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0009470_620bda0f8f8173c2c5355153/01c4710b-97d4-424f-9ace-5cff178f7937",
+         "type": "Annotation",
+         "created": "2023-11-15T23:39:25Z",
+         "modified": "2023-11-15T23:39:25Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://www.e-rara.ch/zut/i3f/v20/1439946/canvas/1440107#xywh=240,730,505,501",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://www.e-rara.ch/zut/i3f/v20/1439946/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "R+2395"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0009470_620bda0f8f8173c2c5355153/?iris=0",
+      "modified": "2023-11-15T23:39:25Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0009470_620bda0f8f8173c2c5355153/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0009470_620bda0f8f8173c2c5355153/?iris=0&page=0",
+      "total": "2"
+   },
+   "startIndex": "0"
+}

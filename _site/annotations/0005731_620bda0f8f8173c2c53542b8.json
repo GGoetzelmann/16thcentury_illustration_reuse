@@ -1,0 +1,95 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0005731_620bda0f8f8173c2c53542b8/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0005731_620bda0f8f8173c2c53542b8/fc6cf5ac-c3da-44ac-b7b2-170d44e05fad",
+         "type": "Annotation",
+         "created": "2023-11-15T21:20:49Z",
+         "modified": "2023-11-15T21:20:49Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/1000665/canvas/3041873#xywh=290,1560,857,769",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/1000665/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "B+7833"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005731_620bda0f8f8173c2c53542b8/6ac0b13a-4f36-4a15-9ad9-08e5c19fd488",
+         "type": "Annotation",
+         "created": "2023-11-15T21:20:49Z",
+         "modified": "2023-11-15T21:20:49Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/844206792-0177/canvas#xywh=66,536,805,710",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://content.staatsbibliothek-berlin.de/dc/844206792/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "B+4286"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005731_620bda0f8f8173c2c53542b8/bd146bb1-cd92-4c85-b96b-b30f7c5bf753",
+         "type": "Annotation",
+         "created": "2023-11-15T21:20:49Z",
+         "modified": "2023-11-15T21:20:49Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/993819/canvas/2696523#xywh=456,252,863,761",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/993819/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "ZV+18095"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005731_620bda0f8f8173c2c53542b8/e086b233-5a39-4b56-8bb3-b999c2fe84a9",
+         "type": "Annotation",
+         "created": "2023-11-15T21:20:49Z",
+         "modified": "2023-11-15T21:20:49Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/994695/canvas/4545807#xywh=393,2360,863,825",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/994695/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "B+7828"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0005731_620bda0f8f8173c2c53542b8/?iris=0",
+      "modified": "2023-11-15T21:20:49Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0005731_620bda0f8f8173c2c53542b8/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0005731_620bda0f8f8173c2c53542b8/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}

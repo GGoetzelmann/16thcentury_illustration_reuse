@@ -1,0 +1,57 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0010082_620bda0f8f8173c2c53553b7/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0010082_620bda0f8f8173c2c53553b7/bbac3c9a-6385-4972-8263-7bab24797db0",
+         "type": "Annotation",
+         "created": "2023-11-15T23:53:13Z",
+         "modified": "2023-11-15T23:53:13Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/827586213-0016/canvas#xywh=574,576,684,998",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://content.staatsbibliothek-berlin.de/dc/827586213/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+5737"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0010082_620bda0f8f8173c2c53553b7/a5adcf81-d79b-4fee-a756-e27b3be3017d",
+         "type": "Annotation",
+         "created": "2023-11-15T23:53:13Z",
+         "modified": "2023-11-15T23:53:13Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/841172161-0020/canvas#xywh=700,612,712,1007",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://content.staatsbibliothek-berlin.de/dc/841172161/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "L+727"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0010082_620bda0f8f8173c2c53553b7/?iris=0",
+      "modified": "2023-11-15T23:53:13Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0010082_620bda0f8f8173c2c53553b7/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0010082_620bda0f8f8173c2c53553b7/?iris=0&page=0",
+      "total": "2"
+   },
+   "startIndex": "0"
+}

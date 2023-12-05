@@ -1,0 +1,93 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0006087_620bda0f8f8173c2c535441c/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0006087_620bda0f8f8173c2c535441c/2b03c3ae-6cc0-4618-8f10-c6d0ecaa9cfd",
+         "type": "Annotation",
+         "created": "2023-11-15T21:25:40Z",
+         "modified": "2023-11-15T21:25:40Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/837175763-0255/canvas#xywh=76,687,802,581",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://content.staatsbibliothek-berlin.de/dc/837175763/manifest"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0006087_620bda0f8f8173c2c535441c/66b7c27d-387e-4a1c-8867-7ee660de0f6a",
+         "type": "Annotation",
+         "created": "2023-11-15T21:25:40Z",
+         "modified": "2023-11-15T21:25:40Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/837175763-0233/canvas#xywh=73,786,809,587",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://content.staatsbibliothek-berlin.de/dc/837175763/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "R+1003"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0006087_620bda0f8f8173c2c535441c/433021e8-79b7-4e35-b621-a699b6fd9cd6",
+         "type": "Annotation",
+         "created": "2023-11-15T21:25:40Z",
+         "modified": "2023-11-15T21:25:40Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10171939/canvas/247#xywh=120,656,822,594",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10171939/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "A+521"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0006087_620bda0f8f8173c2c535441c/5eeaff8d-c11b-490b-9420-9095dbdc1f87",
+         "type": "Annotation",
+         "created": "2023-11-15T21:25:40Z",
+         "modified": "2023-11-15T21:25:40Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10993910/canvas/247#xywh=67,682,794,579",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10993910/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "A+526"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0006087_620bda0f8f8173c2c535441c/?iris=0",
+      "modified": "2023-11-15T21:25:40Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0006087_620bda0f8f8173c2c535441c/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0006087_620bda0f8f8173c2c535441c/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}

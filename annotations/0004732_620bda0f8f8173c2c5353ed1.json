@@ -1,0 +1,95 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0004732_620bda0f8f8173c2c5353ed1/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0004732_620bda0f8f8173c2c5353ed1/75040315-29a9-4f1c-a4fa-5d2327f08ee6",
+         "type": "Annotation",
+         "created": "2023-11-15T21:05:35Z",
+         "modified": "2023-11-15T21:05:35Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00090354/canvas/236#xywh=864,2613,1169,1906",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00090354/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "M+1611"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0004732_620bda0f8f8173c2c5353ed1/df4e1fac-d905-4df2-8a62-d7c97c35cb0d",
+         "type": "Annotation",
+         "created": "2023-11-15T21:05:35Z",
+         "modified": "2023-11-15T21:05:35Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00024763/canvas/1039#xywh=1176,273,875,1455",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00024763/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "T+829"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0004732_620bda0f8f8173c2c5353ed1/da3ac3bd-ed69-46ea-8ece-545c13193f0a",
+         "type": "Annotation",
+         "created": "2023-11-15T21:05:35Z",
+         "modified": "2023-11-15T21:05:35Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11057804/canvas/746#xywh=1663,516,928,1506",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11057804/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "T+827"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0004732_620bda0f8f8173c2c5353ed1/f82f4f94-194b-47ce-93dc-d8d6a40e487a",
+         "type": "Annotation",
+         "created": "2023-11-15T21:05:35Z",
+         "modified": "2023-11-15T21:05:35Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11057663/canvas/788#xywh=1567,508,744,1424",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11057663/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "T+828"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0004732_620bda0f8f8173c2c5353ed1/?iris=0",
+      "modified": "2023-11-15T21:05:35Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0004732_620bda0f8f8173c2c5353ed1/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0004732_620bda0f8f8173c2c5353ed1/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}

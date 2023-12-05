@@ -1,0 +1,95 @@
+{
+   "@context": "http://www.w3.org/ns/anno.jsonld",
+   "id": "http://localhost:9999/wap/clusters/0005555_620bda0f8f8173c2c5354208/?iris=0&page=0",
+   "type": "AnnotationPage",
+   "items": [
+      {
+         "id": "http://localhost:9999/wap/clusters/0005555_620bda0f8f8173c2c5354208/29c143e3-9f7d-4dff-875b-c61ec4b28a86",
+         "type": "Annotation",
+         "created": "2023-11-15T21:18:11Z",
+         "modified": "2023-11-15T21:18:11Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/875848931-0005/canvas#xywh=94,1781,1709,1247",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://content.staatsbibliothek-berlin.de/dc/875848931/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "ZV+31253"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005555_620bda0f8f8173c2c5354208/c93e47d4-60cf-48fb-9eef-2257ef2a98ce",
+         "type": "Annotation",
+         "created": "2023-11-15T21:18:11Z",
+         "modified": "2023-11-15T21:18:11Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/994036/canvas/7324216#xywh=375,1715,1477,1099",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://digitale.bibliothek.uni-halle.de/vd16/i3f/v20/994036/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "L+3361"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005555_620bda0f8f8173c2c5354208/be3c1cdc-fba4-4bb2-b377-a196b12c43d2",
+         "type": "Annotation",
+         "created": "2023-11-15T21:18:11Z",
+         "modified": "2023-11-15T21:18:11Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10144052/canvas/851#xywh=116,793,1687,1222",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10144052/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "L+4862"
+            }
+         },
+         "motivation": "tagging"
+      },
+      {
+         "id": "http://localhost:9999/wap/clusters/0005555_620bda0f8f8173c2c5354208/3ecaa000-d264-4e68-94ad-02cf8c8426fa",
+         "type": "Annotation",
+         "created": "2023-11-15T21:18:11Z",
+         "modified": "2023-11-15T21:18:11Z",
+         "body": {
+            "purpose": "linking"
+         },
+         "target": {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11380615/canvas/5#xywh=183,1623,1739,1273",
+            "type": "http://iiif.io/api/presentation/3#Canvas",
+            "dcterms:isPartOf": {
+               "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11380615/manifest",
+               "type": "http://iiif.io/api/presentation/3#Manifest",
+               "label": "L+3377"
+            }
+         },
+         "motivation": {
+            "id": "oa:tagging",
+            "label": "tagging"
+         }
+      }
+   ],
+   "partOf": {
+      "id": "http://localhost:9999/wap/clusters/0005555_620bda0f8f8173c2c5354208/?iris=0",
+      "modified": "2023-11-15T21:18:11Z",
+      "label": "This container will contain photos of Alice.",
+      "first": "http://localhost:9999/wap/clusters/0005555_620bda0f8f8173c2c5354208/?iris=0&page=0",
+      "last": "http://localhost:9999/wap/clusters/0005555_620bda0f8f8173c2c5354208/?iris=0&page=0",
+      "total": "4"
+   },
+   "startIndex": "0"
+}
