@@ -5,4 +5,44 @@
 
 .wrapper {
   width: 90%;
+  margin: 0 auto;
+  position: relative;
+  min-width: 500px; /* optional, prevents too small wrapper */
+}
+
+/* Fixed header on the left */
+header {
+  width: 450px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  box-sizing: border-box;
+  overflow-x: auto; /* scroll if text too wide */
+  z-index: 100;
+}
+
+/* Main content area */
+section {
+  margin-left: 450px; /* matches header width */
+  width: calc(90% - 450px); /* remaining width of wrapper */
+  min-width: 250px; /* optional: minimum content width */
+  padding-bottom: 50px;
+  box-sizing: border-box;
+}
+
+/* Responsive adjustment for small screens */
+@media (max-width: 900px) {
+  .wrapper {
+    width: 100%;
+    min-width: 0;
+  }
+  header {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+  section {
+    margin-left: 0;
+    width: 100%;
+  }
 }
